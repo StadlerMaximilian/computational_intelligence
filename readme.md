@@ -1,4 +1,4 @@
-## Homework
+## Homework - Computational Intelligence
 
 These programmes have been created during the course "Computational Intelligence" (TUM) as part of the programming homework projects.
 
